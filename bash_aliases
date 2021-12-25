@@ -8,4 +8,4 @@ alias managed='sudo ifconfig wlan1 down && sudo iwconfig wlan1 mode managed && s
 
 alias turtle='sudo ssh 172.16.84.1'
 
-alias kex='kex'
+##alias kex='kex'
